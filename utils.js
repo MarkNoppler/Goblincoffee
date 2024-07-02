@@ -6,7 +6,7 @@ btn.addEventListener("click", () => {
 });
 
 btn.addEventListener("click", function onclick() {
-    btn.style.backgroundColor = "red";
+    btn.style.backgroundColor = "#c1730E";
     btn.style.color = "#4d693a";
 });
 
